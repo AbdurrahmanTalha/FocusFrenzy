@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../Global/Button';
+import Button from '../Global/WhiteButton';
 
 const Banner = () => {
     return (
