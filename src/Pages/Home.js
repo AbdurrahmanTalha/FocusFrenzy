@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from '../Components/Global/Navbar';
+import AboutUS from '../Components/Home/AboutUS';
 import Banner from '../Components/Home/Banner';
 import Services from '../Components/Home/Services';
 
@@ -12,6 +13,9 @@ const Home = () => {
             </div>
             <div className="px-[50px] pt-[10px]">
                 <Services />
+            </div>
+            <div className="px-[50px] pt-[10px]">
+                <AboutUS />
             </div>
         </div>
     );
