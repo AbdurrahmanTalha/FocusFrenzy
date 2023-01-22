@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <div className="lg:flex  justify-between items-center">
             <div>
-                <h2 className="text-[45px] font-bold mb-[30px] text-[#fff] text-center">Capture <span className="text-[#ff3636]">Life's</span> Moments</h2>
+                <h2 className="text-[45px] font-bold mb-[30px] text-[#fff] text-center">Capture <span className="text-[#DA0037]">Life's</span> Moments</h2>
                 <p className='lg:md:w-[500px] text-[17px] mb-[20px] text-[#e5e5e5]'>Welcome to our photography website where we offer a wide range of services to capture your special moments. From portraits to events, we have you covered. Browse our services and book your next session today.</p>
                 <div className="lg:md:flex-none flex lg:md:justify-start justify-center">
                     <Button>Learn More.</Button>
